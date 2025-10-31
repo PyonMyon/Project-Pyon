@@ -1,2 +1,2 @@
 # Project-Pyon
-A repository of things programmed
+A repo of C script.
